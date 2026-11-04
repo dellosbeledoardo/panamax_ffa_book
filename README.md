@@ -1,6 +1,6 @@
 # Panamax FFA paper book
 
-A live paper trading book in Baltic Panamax 5TC (P5TC) forward freight agreements, run every week from **13 November 2026**.
+A live paper trading book in Baltic Panamax 5TC (P5TC) forward freight agreements, run every week from **06 November 2026**.
 
 Every Friday I publish a call: my view on where next month's Panamax market will settle, the position I take on it, and why. Each call is committed here before the market closes, so the record cannot be edited after the fact. When a month settles, the result is scored against the forward curve.
 

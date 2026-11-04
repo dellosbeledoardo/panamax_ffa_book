@@ -1,0 +1,10 @@
+# Never upload private data or secrets
+*.xlsx
+*.xls
+private/
+data_private/
+*.env
+.env
+*secret*
+*key*
+*password*

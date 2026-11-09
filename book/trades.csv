@@ -1,1 +1,2 @@
 trade_id,call_date,contract,side,days,fill_price,cost,close_date,close_price_or_settlement,close_type,realised_pnl,notes
+T1,2026-11-06,2026-12,SELL,10,19468,1250,,,,,Open. Stop 20468 (entry + 1000). Event stop: ECSA ballasters below 280

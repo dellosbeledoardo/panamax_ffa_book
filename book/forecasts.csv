@@ -1,1 +1,2 @@
 call_date,contract,ffa_price,ffa_source,expected_settlement,edge,action,days,final_settlement,my_error,curve_error
+2026-11-06,2026-12,19468,Baltic forward assessment via BDRY holdings,18300,-1168,SELL,10,,,

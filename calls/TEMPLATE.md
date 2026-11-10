@@ -30,6 +30,17 @@ Committed before 18:00 CET.
 - Cargoes (grain, coal, minor bulks):
 - Congestion, canals, weather:
 - Period market and sentiment:
+- Curve moved because (information / positioning / sentiment):
+
+### Fixtures vs route index
+Compare each fixture with its own Baltic route on the same day, not with the P5TC average.
+Routes: P1A_82 transatlantic RV (25%), P2A_82 fronthaul (10%), P3A_82 Pacific RV (25%), P4_82 backhaul (10%), P6_82 Singapore via ECSA (30%).
+
+| Fixture (ship, dwt, trip) | Rate $/day | Route | Route index $/day | Difference | Note (size, age, delivery) |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+
+- Most fixtures above / at / below their route index:
 
 ## 6. Invalidation
 - Price level:

@@ -1,0 +1,87 @@
+# Call 2026-11-13
+
+Committed before 18:00 CET. Second call. One open position: short 10 days Dec-26 at $19,468.
+
+## 1. Market snapshot
+- P5TC spot (today): 13 Nov value not yet confirmed, to follow in tonight's report. 12 Nov: $19,054/day (+$131), BPI 2,117, seventh straight up day
+- Daily gains are shrinking: +$554 (5 Nov), +$427, +$300, +$342, +$251, +$131 (12 Nov)
+- November month to date: about $17,900/day (9 of 21 days)
+- FFA Dec-26 (M+1): $19,500/day, BDRY holdings (derived), 11 Nov assessment (10 Nov: $19,543)
+- FFA Jan-27 (M+2): $17,514/day, same source, 11 Nov
+- Spot trend this week: up every day, led by the North Atlantic. Spot +$1,000 since the last call, Dec-26 FFA +$32
+
+## 2. View
+- Contract: Dec-26 P5TC
+- My expected settlement: $18,600/day (range 17,800 to 19,400). Up from $18,300 on 6 Nov
+- FFA price: $19,500/day (11 Nov assessment)
+- Edge: -$900/day (18,600 minus 19,500), above the $750 threshold
+
+Chain: November closes around $18,400 (9 days at about $17,900 so far, the rest at about $18,750 as the rally peaks and eases). December comes in about 1% above November, close to the five-year median of -1%, not the 4% the curve still implies (Dec $19,543 against Nov $18,811 on 10 Nov). I moved my number up $300 because spot did, not because the thesis changed.
+
+## 3. Action
+- HOLD: short 10 days Dec-26 at $19,468. No new trade
+- Not added: the five questions are split (one negative, three neutral, one positive), which does not justify more size
+- Considered, no trade: Jan-27. The curve prices January about 11% below December, in line with 2024 (-11%) and 2025 (-10%). That is seasonality the curve already knows, not an edge
+- Cost: $0 this call
+
+## 4. Thesis: 19,500 against my 18,600
+
+The trade loses money if December settles above about $19,340 (entry $19,468 minus the $125/day cost).
+
+### What changed this week
+Spot did exactly what I did not want: seven up days and +$1,000 since the call. But the curve barely followed. December rose $32 while spot rose $1,000, so the gap between December and spot closed from about $1,400 to about $500. The market already priced this bounce last week.
+
+### Why I still think December is too high
+1. The rally is Atlantic only, and it is already fading in the Pacific. Fearnleys (11 Nov): scarce prompt ships in the North Atlantic pushed transatlantic (+$591) and fronthaul (+$378) rates up, while by midweek more open ships in South China met a thinner Australian cargo list and the Pacific round voyage eased (-$136). Atlantic squeezes fix themselves: ships ballast across.
+2. Period rates fell while spot rose. One-year Kamsarmax is $20,100 (-$400 on the week) and one-year Panamax $17,500 (-$1,000) (Fearnleys). People paying for a year of a ship are not buying the rally.
+3. Asian coal is still soft. China imported 39.4 Mt of coal in October, 6% below last year and below September's 43.4 Mt, as buyers refused to restock at high prices (customs data via Reuters).
+4. Fearnleys' own indicators say the rebound may stall: volume growth still trails fleet growth.
+
+### What I need
+Spot to stop rising this month. If November finishes around $18,400 and December comes in close to November, my number holds. A December average of 19,500 needs spot to climb another $500 and stay there for a month.
+
+### What keeps me small
+Capesize is strong (1-year +$1,801, spot earnings +$2,208 on 11 Nov to $39,125), and that can push cargo splits onto Panamaxes. ECSA held firm for late November and early December arrivals, which goes against my point about too many ships heading to Brazil. And I have no ballaster count this week.
+
+### What would change my mind
+- Dec-26 FFA at or above $20,468 (entry plus $1,000). I close the next working day
+- ECSA ballasters below about 280, or clear new December cargo demand from Brazil
+- Spot above $19,500 with the Pacific firming as well, not only the Atlantic
+
+### In plain words
+The ships got more expensive this week, but only in the Atlantic, and the people who hire ships for a whole year are paying less, not more. I think this is a short squeeze, not a new trend. I am less sure than last week, so I hold what I have and add nothing.
+
+## 5. Fundamentals checklist
+- Tonnage and ballasters: neutral, weak. North Atlantic short of prompt ships, South China longer; ECSA firm for late Nov and early Dec arrivals; no ballaster count this week (Signal monitor not available)
+- Cargoes: slightly negative, moderate. Atlantic grain fronthaul strong; thinner Australian coal list, little North Pacific grain; China October coal imports -6% year on year
+- Congestion, canals, weather: neutral. Hormuz still disrupted, transits slowly rising; Panama normal; no new Panamax disruption
+- Period market and sentiment: neutral. Spot up seven days, but 1-year Kamsarmax -$400 and Panamax -$1,000; curve lagging spot
+- Other sizes: positive, moderate. Capesize strong (1-year +$1,801); Supramax flat (BSI 1,810, ended an 11-session fall)
+- Curve moved because: little. December +$32 on the week while spot rose $1,000. The curve saw the bounce coming
+
+### Fixtures vs route index
+Route levels on 11 Nov (Fearnleys): transatlantic $17,923, fronthaul $25,619, Pacific round voyage $20,565, backhaul $13,640. Fixture comparison not done this call: this week's Baltic weekly fixtures were not out before the cut-off.
+
+## 6. Invalidation
+- Price level: Dec-26 FFA at or above $20,468. Close the next working day
+- Event: ECSA ballasters below about 280 (Signal weekly monitor), or clearly stronger December cargo demand from Brazil
+
+## 7. Review
+- Contracts settled since last call: none
+- Open position: short 10 days Dec-26 at $19,468, mark $19,500 (11 Nov), open P&L -$1,570 after the $1,250 cost
+- My error vs the curve's error: n/a until December settles
+- One lesson: watch the curve, not spot. Spot rose $1,000 in a week and the position barely moved. And period rates are a quick check on whether a rally is believed
+
+## 8. Black Sea
+- Grain and oilseed exports from Russian and Ukrainian Black Sea ports fell 63% year on year in July to September (Kpler). Russia moved more wheat to Baltic ports, but not enough to replace it. Azov Sea transit permits run only to 15 November, so Russian Azov grain could stop again next week. Net effect: less Atlantic grain for Panamaxes, partly offset by longer Baltic routes.
+
+## 9. Book summary
+| Contract | Side | Days | Entry | Mark | Mark type | P&L |
+| --- | --- | --- | --- | --- | --- | --- |
+| Dec-26 | Short | 10 | 19,468 | 19,500 | mark (11 Nov) | -$1,570 |
+
+- Realised P&L to date: $0
+- Drawdown: -$1,570
+- Limits used: 10/30 per month, 10/60 total
+
+Sources: Baltic Exchange via Reuters/Baird Maritime, BDRY holdings (Amplify ETFs), Fearnleys weekly W46 (11 Nov), China customs data via Reuters (10 Nov), Kpler via UkrAgroConsult, UKMTO.
